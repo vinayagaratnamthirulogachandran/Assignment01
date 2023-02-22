@@ -1,0 +1,180 @@
+/* navbar start */
+#navbarNav{
+    margin-left:25%;
+    
+}
+#button{
+    background-color: rgb(207, 112, 207);
+    margin-top: 5%;
+    color-scheme: #eee;
+    border: none;
+}
+.navbar-brand{
+    margin-left: 5%;
+}
+
+/* section 01 start */
+
+.grid-container1 {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 10px;
+    padding: 10px;
+    padding-top: 60px;
+    background-color: rgb(248, 187, 250);
+  }
+
+  .grid-container1 > div {
+    text-align: center;
+    font-size: 15px;
+  }
+
+  .grid-container1 img{
+    margin-right: 20%;
+  }
+ #div1{
+    margin-top: 30%;
+    margin-left: 25%;
+ }
+
+ #get{
+    background-color: rgb(187, 89, 190);
+    margin-top: 0%;
+    margin-bottom: 2%;
+ }
+
+ #section1{
+    margin-top: 5%;
+ }
+
+/* section 01 end */
+
+/* section 02 start */
+
+.grid-container2 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 20px;
+    background-color:rgb(230, 195, 231);
+    padding: 10px;
+   
+  }
+
+  #phara1{
+    text-align: justify;
+    font-size: 15px;
+    margin-left: 5%;
+  }
+
+  .grid-container2 img{
+    margin-right: 25%;
+  }
+
+  #phara2{
+    text-align: justify;
+    font-size: 15px;
+    margin-top: 23%;
+  }
+
+/* section 02 end */
+
+/* section 03 start */
+
+#portfolio{
+    color: grey;
+    text-align: center;
+}
+
+#button3{
+    width: 5%;
+    background-color: rgb(94, 4, 94);
+    border: none;
+    margin-left: 47%;
+    border-radius: 10%;
+}
+
+#card{
+    margin-left: 40%;
+}
+
+.grid-container3{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+    background-color: rgb(246, 216, 247);
+    background-size: auto;
+    padding: 30px;
+}
+
+
+/* section 03 end */
+
+/* section 04 start */
+
+.grid-container4{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 10px;
+    background-color: rgb(246, 216, 247);
+    padding: 20px;
+}
+
+.grid-container4 > div{
+    text-align: center;
+    font-size: 10px;
+}
+
+/* section 04 end */
+
+/* section 05 start */
+
+#carousel{
+    align-content: center;
+    
+  }
+
+  .carousel .carousel-indicators button {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+  }
+ 
+/* section 05 end */
+
+/* section 06 start */
+
+.grid-container6{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    background-color: rgb(246, 216, 247);
+    gap: 10px;
+    padding-top: 3px;
+    padding: 10px;
+    padding-bottom: 5%;
+}
+
+.grid-container > div {
+    padding-left: 5px;
+     text-align: justify;
+     font-size: 15px;}
+/* section 06 end */
+
+/* footer start */
+#foot{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+   height: 30px;
+    text-align: center;
+    width: 100%;
+    color: #eee;
+    background-color: rgb(94, 4, 94);  
+  }
+
+  #btn{
+    margin-left:77.5%;
+    background-color: red;
+    border-color: red;
+  }
+
+/* footer end */
